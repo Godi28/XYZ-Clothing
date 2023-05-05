@@ -16,4 +16,4 @@ After it has loaded in the same directory in command prompt or powershell type '
 This is where you can view the website.
 
 ## Usage
-Browse the website ad enjoy. 
+Browse the website and enjoy. 
